@@ -72,26 +72,41 @@ for loop
 
 for (int i = 0; i < 5; i++)
 {
+
 printf("%i\n", i);
+
 }
 
 while loop
 
+
 int j = 0;
+
 while (j < 5)
+
 {
+
 printf("%i\n", j);
+
 j++;
+
 }
 
 do-while loop
 
+
 int k = 0;
+
 do
+
 {
+
 printf("%i\n", k);
+
 k++;
+
 }
+
 while (k < 5);
 
 ---
@@ -99,16 +114,27 @@ while (k < 5);
  Conditions
 
 if (x > 0)
+
 {
+
 printf("Positive\n");
+
 }
+
 else if (x < 0)
+
 {
+
 printf("Negative\n");
+
 }
+
 else
+
 {
+
 printf("Zero\n");
+
 }
 
 ---
@@ -116,7 +142,10 @@ printf("Zero\n");
  Arrays
 
 int numbers[3] = {10, 20, 30};
-printf("%i\n", numbers[1]); // prints 20
+
+printf("%i\n", numbers[1]); // 
+
+prints 20
 
 ---
 
@@ -136,9 +165,12 @@ int result = add(3, 5); // result = 8
 #include <cs50.h>
 
 string name = get_string("What’s your name? ");
+
 int age = get_int("How old are you? ");
 
-Note: cs50.h simplifies input for beginners in this course.
+
+Note: cs50.h simplifies input for 
+beginners in this course.
 
 ---
 
