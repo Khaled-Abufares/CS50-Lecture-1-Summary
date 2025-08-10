@@ -1,11 +1,5 @@
 CS50 Lecture 1: Introduction to C
 
-> بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
-> 
-
-> This is a beginner-friendly summary of what you learn in the first CS50 lecture using the C programming language.
-> 
-
 ---
 
  What is C?
@@ -197,12 +191,3 @@ Add comments to explain your code
 Be patient and consistent
 
 ---
-
- Ethical Note
-
-> This course may include examples, visuals, or references that don’t align with Islamic beliefs.
-Please stay aware and skip or ignore anything inappropriate.
-Your knowledge journey should be clean and purposeful.
-> 
-
-Learning with awareness is part of true excellence.
